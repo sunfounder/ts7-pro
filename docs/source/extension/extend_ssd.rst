@@ -14,7 +14,7 @@ Hole size for mounting the hard disk:
 
 **Assemble the Hard Disk**
 
-Follow the tutorial below to mount the Hard Disk on the TS-7 Pro Screen.
+Follow the tutorial below to mount the Hard Disk on the TS7-Pro Screen.
 
 .. image:: img/ssd_assemble.jpg
     :width: 800

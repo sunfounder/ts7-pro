@@ -1,5 +1,5 @@
 
-TS-7 Pro 7-inch Touch Screen
+TS7-Pro 7-inch Touch Screen
 ===============================
 
 **Introduction**

@@ -28,6 +28,6 @@ Hole size for wall hanging:
 
     .. image:: img/wall6.jpg
 
-#. Secure the TS-7 Pro screen to the standoffs with 4 M3x6 screws.
+#. Secure the TS7-Pro screen to the standoffs with 4 M3x6 screws.
 
     .. image:: img/wall7.jpg

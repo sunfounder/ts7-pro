@@ -8,17 +8,18 @@ HARDWARE INTRODUCTION
 * Working Voltage: DC 5V
 * Rated Power: 3.5W
 * Touch Screen: 5 dot touch control applies to it, plug and play
+* Refresh rate
 * External Dimensions: 165×114×40mm (Excluding the height of the metal support(55mm))
 * Visual Area: 154.21(H)×85.92(V)
 * Panel Type IPS: 45% color gamut. HD full view screen.
 * Response Time: 5ms
 * Contrast Ratio: 800:1
-* Visual Angle: 178°
+* Visual Angle: 170°
 * Display Color: 262K
 * Brightness: 300cd/m2
 * Input Signal: HDMI
 * HDMI Input: Adjustable resolution ranging 640×480 ~1920×1200
-* Speaker: 8Ω/3W
+* Speaker: 8Ω/2W
 
 **Interfaces Introduction**
 

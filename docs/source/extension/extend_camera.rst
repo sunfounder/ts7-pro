@@ -5,7 +5,7 @@ Assemble and Use a Camera Module
 
 **Required Components**
 
-* TS-7 Pro Screen
+* TS7-Pro Screen
 * Camera Module (Self-provided)
 * Raspberry Pi (Self-provided)
 
