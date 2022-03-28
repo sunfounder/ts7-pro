@@ -7,11 +7,12 @@ HARDWARE INTRODUCTION
 * Resolution: 1024×600 Pixels
 * Working Voltage: DC 5V
 * Rated Power: 3.5W
-* Touch Screen: 5 dot touch control applies to it, plug and play
-* Refresh rate
+* Touch Screen: 5 dot touch control applies to it, plug and play.
+* Refresh rate: 60Hz
 * External Dimensions: 165×114×40mm (Excluding the height of the metal support(55mm))
 * Visual Area: 154.21(H)×85.92(V)
-* Panel Type IPS: 45% color gamut. HD full view screen.
+* Panel Type IPS: 45% color gamut
+* HD full view screen
 * Response Time: 5ms
 * Contrast Ratio: 800:1
 * Visual Angle: 170°
