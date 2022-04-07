@@ -38,7 +38,7 @@ Lesson Guide
 Arrange the Crosshair and targets.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-First, delete the previous sprite, upload the Crosshair sprite and the target background, you can find them under the path ``7-diy-touch-screen/scratch/materials`` (You have downloaded from `github - 7-diy-touch-screen <https://github.com/sunfounder/7-diy-touch-screen>`_ before.).
+First, delete the previous sprite, upload the Crosshair sprite and the target background, you can find them under the path ``ts7-pro/scratch/materials`` (You have downloaded from `github - ts7-pro <https://github.com/sunfounder/ts7-pro>`_ before.).
 
 Click the icon below the sprite list, select "Upload Sprite Option", find the **Cross Hair.svg** file, and upload it. Similarly, upload the backdrop, **Target.jpg**.
 

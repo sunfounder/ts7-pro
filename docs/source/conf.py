@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
 
-project = '7-inch DIY Touch Screen'
+project = 'TS7-Pro 7-inch Touch Screen'
 copyright = '2021, sunfounder'
 author = 'www.sunfounder.com'
 

@@ -4,6 +4,10 @@ TS7-Pro 7-inch Touch Screen
 
 **Introduction**
 
+.. image:: img/ts7_pro.jpg
+    :width: 500
+    :align: center
+
 This is a 7-inch touch screen with dual-channel speakers and protective cover and stand. High definition display with comfortable viewing angle and good handheld experience.
 
 The onboard buttons can be used to adjust the volume and brightness, as well as turn on/off the screen.
@@ -25,6 +29,7 @@ Here is the Email: cs@sunfounder.com.
     extension/adding_peripherals
     project_activities/projects_and_activities
     appendix/appendix
+    faq
 
 
 Copyright Notice
