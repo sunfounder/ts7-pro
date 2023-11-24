@@ -20,6 +20,8 @@ This is a 7-inch touch screen with dual-channel speakers and protective cover an
 
 
 <a id="update"></a>
+2023-11-24:
+- Modify the installation system prompt.
 
 2022-04-07:
  - New Release
