@@ -16,6 +16,8 @@ Reserved hard drive mounting position, compatible with 2.5-inch mechanical hard 
 
 The 40pin interface is also reserved, so you can connect 40pin cable or connect sensors directly to ensure the scalability of Raspberry Pi.
 
+Ideal for applications like retro gaming, industrial control, as a secondary monitor, in home automation, for 3D printing control, and as a |link-pc-monitor|.
+
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
 Here is the Email: cs@sunfounder.com.
