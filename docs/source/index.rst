@@ -13,8 +13,10 @@
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
 
-TS7-Pro 7-inch Touch Screen
+|link_TS7Pro_7|
 ===============================
+
+* |link_TS7Pro7_inch_Touch_Screen|
 
 **Introduction**
 
@@ -22,7 +24,7 @@ TS7-Pro 7-inch Touch Screen
     :width: 500
     :align: center
 
-This is a 7-inch touch screen with dual-channel speakers and protective cover and stand. High definition display with comfortable viewing angle and good handheld experience.
+This is a |link_TS7Pro_7| with dual-channel speakers and protective cover and stand. High definition display with comfortable viewing angle and good handheld experience.
 
 The onboard buttons can be used to adjust the volume and brightness, as well as turn on/off the screen.
 
