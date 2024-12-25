@@ -64,8 +64,9 @@ The steps are as follows.
     :maxdepth: 2
     
     hardware_introduction
+    install_the_os
     component_list_and_assembly_instructions
-    quick_guide/quick_user_guide
+    resolution_orientation
     extension/adding_peripherals
     project_activities/projects_and_activities
     appendix/appendix
